@@ -1,0 +1,8 @@
+[package]
+name = "lathe"
+version = "0.1.0"
+authors = ["Jake <souter_downhill@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+#structopt = { version = "0.2" }
